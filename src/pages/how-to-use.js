@@ -32,14 +32,14 @@ const HowToUsePage = (props) => {
         </div>
         <Container size={'large'} spacing={'min'}>
           <div className={styles.content} style={{ paddingTop: '80px' }}>
-            <h3>Built By Matter.</h3>
+            <h3>OSSAI.</h3>
             <div id="#builtBy" ref={builtRef}>
               <p>
                 This theme is proudly brought to you by the team at{' '}
-                <Button target={true} href="https://matterdesign.com.au/">
-                  Matter Design & Digital
+                <Button target={true} href="">
+                  OSSAI & CAKETECK Digital
                 </Button>{' '}
-                (Matter.).
+                (OSSAI.).
               </p>
               <p>
                 The Sydney theme is built for Netlify as an ecommerce theme
@@ -48,20 +48,20 @@ const HowToUsePage = (props) => {
                 ecommerce platform that support a headless architecture.
               </p>
               <p>
-                Matter. has pre-built connections to microservices available
-                through its JAMM.™ solution. JAMM.™ is a system built to run a
-                headless architecture. JAMM.™ can connect micro-services,
+                OSSAI. has pre-built connections to microservices available
+                through its CAKETECK.™ solution. CAKETECK.™ is a system built to run a
+                headless architecture. CAKETECK.™ can connect micro-services,
                 orchestrate data and publish websites to an edge network for
-                lighting fast performce. JAMM.™ creates a server-side rendered
+                lighting fast performce. CAKETECK.™ creates a server-side rendered
                 website that is fast, stable and scalable for high traffic
                 events.
               </p>
-              <Button target={true} href="https://jamm.matter.design/">
-                Read more about JAMM.™
+              <Button target={true} href="">
+                Read more about CAKETECK.™
               </Button>
               <img
-                alt={'JAMM Detail'}
-                src={'/how-to-use/jamm-sydney-1upd@2x.png'}
+                alt={''}
+                src={''}
                 style={{ display: 'block', height: 'auto' }}
               />
             </div>
@@ -84,7 +84,7 @@ const HowToUsePage = (props) => {
                 advantage.
               </p>
               <p>
-                Matter. has been innovating since 2003, and we have aligned with
+                OSSAI. has been innovating since 2016, and we have aligned with
                 companies that do it best. The following technologies are either
                 currently available or are on our roadmap for JAMM.™.
               </p>
@@ -152,9 +152,9 @@ const HowToUsePage = (props) => {
               <p>
                 <Button
                   target={true}
-                  href="https://www.matterdesign.com.au/contact/"
+                  href=""
                 >
-                  Contact the team at Matter.
+                  Contact the team at OSSAI
                 </Button>
               </p>
             </div>

@@ -15,21 +15,21 @@ import Button from '../../components/Button';
 
 const AddressPage = (props) => {
   const address1 = {
-    name: 'John Doe',
+    name: 'Ossai Chidozie',
     address: '123 Steam Mill Lane, Haymerket',
-    state: 'NSW',
-    postal: '2000',
-    country: 'Australia',
+    state: 'london',
+    postal: '34000',
+    country: 'Europe',
     company: '',
   };
 
   const address2 = {
-    name: 'John Doe',
+    name: 'Ossai Chidozie',
     address: '123 Steam Mill Lane, Haymerket',
-    state: 'NSW',
-    postal: '2000',
-    country: 'Australia',
-    company: 'Matter Design',
+    state: 'london',
+    postal: '34000',
+    country: 'Europe',
+    company: '',
   };
 
   const [addressList] = useState([address1, address2]);
